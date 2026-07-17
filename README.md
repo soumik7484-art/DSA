@@ -4,10 +4,12 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/soumik7484-art/DSA/tree/master/0001-two-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/soumik7484-art/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/soumik7484-art/DSA/tree/master/0001-two-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/soumik7484-art/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
