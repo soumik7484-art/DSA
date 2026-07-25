@@ -25,6 +25,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/soumik7484-art/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/soumik7484-art/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/soumik7484-art/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/soumik7484-art/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,4 +96,8 @@
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/soumik7484-art/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/soumik7484-art/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/soumik7484-art/DSA/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
