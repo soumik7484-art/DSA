@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soumik7484-art/DSA/tree/master/0001-two-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/soumik7484-art/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/soumik7484-art/DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/soumik7484-art/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/soumik7484-art/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/soumik7484-art/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/soumik7484-art/DSA/tree/master/0009-palindrome-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/soumik7484-art/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/soumik7484-art/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/soumik7484-art/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/soumik7484-art/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -99,5 +101,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/soumik7484-art/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/soumik7484-art/DSA/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
