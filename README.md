@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/soumik7484-art/DSA/tree/master/0001-two-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/soumik7484-art/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumik7484-art/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/soumik7484-art/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/soumik7484-art/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/soumik7484-art/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumik7484-art/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/soumik7484-art/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -38,10 +40,12 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/soumik7484-art/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumik7484-art/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/soumik7484-art/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumik7484-art/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -66,6 +70,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/soumik7484-art/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/soumik7484-art/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/soumik7484-art/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumik7484-art/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
 |  |
 | ------- |
