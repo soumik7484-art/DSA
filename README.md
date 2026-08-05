@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soumik7484-art/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/soumik7484-art/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0486-predict-the-winner](https://github.com/soumik7484-art/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumik7484-art/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/soumik7484-art/DSA/tree/master/0877-stone-game) |
@@ -45,6 +46,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/soumik7484-art/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/soumik7484-art/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/soumik7484-art/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
@@ -176,4 +178,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumik7484-art/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/soumik7484-art/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
