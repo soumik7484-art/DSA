@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumik7484-art/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/soumik7484-art/DSA/tree/master/0005-longest-palindromic-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/soumik7484-art/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/soumik7484-art/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumik7484-art/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -162,6 +163,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/soumik7484-art/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/soumik7484-art/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/soumik7484-art/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/soumik7484-art/DSA/tree/master/1140-stone-game-ii) |
@@ -220,6 +222,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/soumik7484-art/DSA/tree/master/0005-longest-palindromic-substring) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/soumik7484-art/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Nim Game
 |  |
@@ -230,4 +233,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/soumik7484-art/DSA/tree/master/1510-stone-game-iv) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/soumik7484-art/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
