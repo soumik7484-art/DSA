@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/soumik7484-art/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/soumik7484-art/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/soumik7484-art/DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/soumik7484-art/DSA/tree/master/0015-3sum) |
 | [0486-predict-the-winner](https://github.com/soumik7484-art/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumik7484-art/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/soumik7484-art/DSA/tree/master/0877-stone-game) |
@@ -160,6 +161,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/soumik7484-art/DSA/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumik7484-art/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumik7484-art/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/soumik7484-art/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -240,6 +242,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soumik7484-art/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/soumik7484-art/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/soumik7484-art/DSA/tree/master/0015-3sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/soumik7484-art/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Nim Game
 |  |
