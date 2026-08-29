@@ -28,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/soumik7484-art/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/soumik7484-art/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/soumik7484-art/DSA/tree/master/0012-integer-to-roman) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/soumik7484-art/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumik7484-art/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/soumik7484-art/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/soumik7484-art/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/soumik7484-art/DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/soumik7484-art/DSA/tree/master/0012-integer-to-roman) |
 | [0486-predict-the-winner](https://github.com/soumik7484-art/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumik7484-art/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/soumik7484-art/DSA/tree/master/0877-stone-game) |
@@ -99,6 +101,7 @@
 | [0005-longest-palindromic-substring](https://github.com/soumik7484-art/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/soumik7484-art/DSA/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/soumik7484-art/DSA/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/soumik7484-art/DSA/tree/master/0012-integer-to-roman) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/soumik7484-art/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/soumik7484-art/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumik7484-art/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
