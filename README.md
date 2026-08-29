@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/soumik7484-art/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/soumik7484-art/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/soumik7484-art/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/soumik7484-art/DSA/tree/master/0014-longest-common-prefix) |
 | [0486-predict-the-winner](https://github.com/soumik7484-art/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumik7484-art/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/soumik7484-art/DSA/tree/master/0877-stone-game) |
@@ -105,6 +106,7 @@
 | [0010-regular-expression-matching](https://github.com/soumik7484-art/DSA/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/soumik7484-art/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/soumik7484-art/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/soumik7484-art/DSA/tree/master/0014-longest-common-prefix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/soumik7484-art/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/soumik7484-art/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumik7484-art/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -256,4 +258,8 @@
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/soumik7484-art/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/soumik7484-art/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
