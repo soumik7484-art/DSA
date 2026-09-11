@@ -21,6 +21,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/soumik7484-art/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/soumik7484-art/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/soumik7484-art/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/soumik7484-art/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/soumik7484-art/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/soumik7484-art/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/soumik7484-art/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -35,6 +36,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/soumik7484-art/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumik7484-art/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/soumik7484-art/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/soumik7484-art/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/soumik7484-art/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/soumik7484-art/DSA/tree/master/3731-find-missing-elements) |
 ## Math
@@ -98,6 +100,7 @@
 | [0002-add-two-numbers](https://github.com/soumik7484-art/DSA/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/soumik7484-art/DSA/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/soumik7484-art/DSA/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/soumik7484-art/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -147,6 +150,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/soumik7484-art/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/soumik7484-art/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/soumik7484-art/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Segment Tree
