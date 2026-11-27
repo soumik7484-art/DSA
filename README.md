@@ -26,6 +26,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/soumik7484-art/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/soumik7484-art/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/soumik7484-art/DSA/tree/master/3731-find-missing-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/soumik7484-art/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumik7484-art/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/soumik7484-art/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/soumik7484-art/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/soumik7484-art/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [1406-stone-game-iii](https://github.com/soumik7484-art/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/soumik7484-art/DSA/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/soumik7484-art/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/soumik7484-art/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Game Theory
 |  |
 | ------- |
